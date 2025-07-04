@@ -74,19 +74,19 @@ No manual data extraction from systems like POS, CRM, or inventory platforms was
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Customer Insights
-![Customer Insights](images/Customer%20Insights.png)
+![Customer Insights](images/Customer%20Insights.jpg)
 
 ### 2. Product Analysis
-![Product Analysis](images/Product%20Analysis.png)
+![Product Analysis](images/Product%20Analysis.jpg)
 
 ### 3. Return Analysis
-![Return Analysis](images/Return%20Analysis.png)
+![Return Analysis](images/Return%20Analysis.jpg)
 
 ### 4. Sales Analysis
-![Sales Analysis](images/Sales%20Analysis.png)
+![Sales Analysis](images/Sales%20Analysis.jpg)
 
 ### 5. Store Analysis
-![Store Analysis](images/Store%20Analysis.png)
+![Store Analysis](images/Store%20Analysis.jpg)
 
 
 ## 👤 Author
